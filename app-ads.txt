@@ -1,6 +1,6 @@
 google.com, pub-3610470010616803, DIRECT, f08c47fec0942fa0
 applovin.com, 61ee17f174d08c98f8cdefc5872348ae, DIRECT
-facebook.com, 600148836375206, DIRECT, c3e20eee3f780d68
+facebook.com, 685853294139849, DIRECT, c3e20eee3f780d68
 algorix.co, 60532, RESELLER, 5b394c12fea27a1d
 contextweb.com , 562615, RESELLER, 89ff185a4c4e857c
 gamaigroup.com, 423056, RESELLER
